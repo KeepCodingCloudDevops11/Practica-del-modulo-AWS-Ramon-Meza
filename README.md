@@ -32,7 +32,7 @@ practica-aws-ramonmeza/
 └── style.css          # Estilos CSS para el sitio web estático.
 
 ```
-## Procedimiento
+### Procedimiento
 
 ### 1. Preparación del Proyecto
 
